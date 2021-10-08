@@ -12,3 +12,5 @@ part = info[0]["partofspeech"]
 definition = info[1]["definition"]
 
 puts "#{word}: #{part}. Definition: #{definition}"
+
+puts "Thank you for using our dictionary."
